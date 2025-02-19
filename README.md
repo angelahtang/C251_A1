@@ -1,14 +1,14 @@
-COMP 251
+COMP 251 \n
 Assignment 1
-
-Question 1: Hash Tables\n
-Open_Addressing.java
+\n
+Question 1: Hash Tables \n
+Open_Addressing.java \n
 Chaining.java
-
-Question 2: Disjoint Set
-DisjointSetsA.java
+\n
+Question 2: Disjoint Set \n
+DisjointSetsA.java \n
 DisjointSetsB.java
-
-Question 3: Ed-Discussion Board
-(user-word count)
+\n
+Question 3: Ed-Discussion Board \n
+(user-word count) \n
 A1_Q3.java
