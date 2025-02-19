@@ -1,7 +1,7 @@
 COMP 251
 Assignment 1
 
-Question 1: Hash Tables
+Question 1: Hash Tables\n
 Open_Addressing.java
 Chaining.java
 
